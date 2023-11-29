@@ -7,7 +7,7 @@ mathjax: yes
 
 Inversions of image colour components.
 
-![](/img/TestWheel.png)
+-> ![](/img/TestWheel.png) <-
 
 ## Channel Inversion
 

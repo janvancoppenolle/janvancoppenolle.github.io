@@ -11,7 +11,8 @@ Inversions of image colour components.
 
 | ![](/img/TestWheel.png) | ![Channel Inversion](/img/ChannelInversionTestWheel.png) |
 | :---: | :---: |
-| Inverts the image by inverting the channel values. |
+
+Inverts the image by inverting the channel values.
 
 $$ f(x) = 1-x $$
 

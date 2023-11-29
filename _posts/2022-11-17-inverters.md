@@ -10,6 +10,8 @@ Inversions of image colour components.
 ## Channel Inversion
 
 | ![](/img/TestWheel.png) | ![Channel Inversion](/img/ChannelInversionTestWheel.png) |
+| :---: | :---: |
+| Input | Result |
 
 Inverts the image by inverting the channel values.
 

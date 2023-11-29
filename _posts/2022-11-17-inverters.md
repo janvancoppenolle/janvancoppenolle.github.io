@@ -7,11 +7,14 @@ mathjax: yes
 
 Inversions of image colour components.
 
--> ![](/img/TestWheel.png) <-
+![](/img/TestWheel.png)
 
 ## Channel Inversion
 
-| ![Channel Inversion](/img/ChannelInversionTestWheel.png) | Inverts the image by inverting the channel values. |
+
+| ![Channel Inversion](/img/ChannelInversionTestWheel.png) |
+| :---: |
+| Inverts the image by inverting the channel values. |
 
 $$ f(x) = 1-x $$
 

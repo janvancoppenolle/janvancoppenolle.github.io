@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Inverters"
-categories: lut
+categories: lab
 mathjax: yes
 ---
 

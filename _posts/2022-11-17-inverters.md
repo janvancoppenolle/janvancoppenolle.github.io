@@ -13,7 +13,7 @@ Inversions of image colour components.
 
 ## Channel Inversion
 
-| ![](/img/TestWheel.png) | ![Channel Inversion](/img/ChannelInversionTestWheel.png) |
+| ![](/img/TestWheel.png) | ![Channel Inversion](/img/inverters/ChannelInversionTestWheel.png) |
 | :---: | :---: |
 | Input | Result |
 
@@ -25,7 +25,7 @@ White becomes black and vice versa. Hues are rotated 180° – red becomes cyan,
 
 ## Hue Inversion
 
-| ![](/img/TestWheel.png) | ![Hue Inversion](/img/HueInversionTestWheel.png) |
+| ![](/img/TestWheel.png) | ![Hue Inversion](/img/inverters/HueInversionTestWheel.png) |
 | :---: | :---: |
 | Input | Result |
 
@@ -33,7 +33,7 @@ Point reflection / rotation of the colour wheel without inversion of the Lightne
 
 ## Lightness Inversion
 
-| ![](/img/TestWheel.png) | ![Lightness Inversion](/img/LightnessInversionTestWheel.png) |
+| ![](/img/TestWheel.png) | ![Lightness Inversion](/img/inverters/LightnessInversionTestWheel.png) |
 | :---: | :---: |
 | Input | Result |
 

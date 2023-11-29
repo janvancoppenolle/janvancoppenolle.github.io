@@ -20,7 +20,7 @@ White becomes black and vice versa. Hues are rotated 180° – red becomes cyan,
 
 ## Hue Inversion
 
-| ![](/img/TestWheel.png) | | ![Hue Inversion](/img/HueInversionTestWheel.png) |
+| ![](/img/TestWheel.png) | ![Hue Inversion](/img/HueInversionTestWheel.png) |
 | :---: | :---: |
 
 Point reflection / rotation of the colour wheel without inversion of the Lightness.

@@ -1,4 +1,6 @@
 ---
 layout: posts
-list_title: "Lab Notes"
+title: "Lab Notes"
+permalink: /lab/
+list_title: ""
 ---

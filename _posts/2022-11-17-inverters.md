@@ -7,6 +7,10 @@ mathjax: yes
 
 Inversions of image colour components.
 
+
+[https://github.com/janvancoppenolle/LUT/tree/main/Inverters](https://github.com/janvancoppenolle/LUT/tree/main/Inverters)
+
+
 ## Channel Inversion
 
 | ![](/img/TestWheel.png) | ![Channel Inversion](/img/ChannelInversionTestWheel.png) |

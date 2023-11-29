@@ -10,6 +10,8 @@ Lo-fi retro-GPU styles.
 
 [https://github.com/janvancoppenolle/LUT/tree/main/Retro%20GPU%20Conversion](https://github.com/janvancoppenolle/LUT/tree/main/Retro%20GPU%20Conversion)
 
+## Input = 24-bit RGB
+
 | <img src="/img/Neutral-512.png" height="240"/> | <img src="/img/TestWheel.png" height="240"/> | <img src="/img/TestImage.jpg" height="240"/> |
 | :---: | :---: | :---: |
 | A | B | C |

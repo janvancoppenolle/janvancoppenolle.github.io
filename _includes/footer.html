@@ -5,6 +5,7 @@
 
     <div class="footer-col-wrapper">
       <div class="footer-col">
+      {% if site.subscribe -%}
         <p class="feed-subscribe">
           <a href="{{ site.feed.path | default: 'feed.xml' | absolute_url }}">
             <svg class="svg-icon orange">
@@ -12,6 +13,7 @@
             </svg><span>Subscribe</span>
           </a>
         </p>
+      {% endif -%}
       {%- if site.author %}
         <ul class="contact-list">
           {% if site.author.name -%}

@@ -33,12 +33,12 @@ mathjax: yes
 | &#9679; Soft Dodge | <img src="/img/blend-modes/SoftDodge.png" width="32"/> | | $$ a $$ |
 | &#9675; Gamma Dark | <img src="/img/blend-modes/GammaDark.png" width="32"/> | | $$ 1 $$ |
 | &#9679; Gamma Light | <img src="/img/blend-modes/GammaLight.png" width="32"/> | | $$ 0 $$ |
-| &#9675; Freeze | <img src="/img/blend-modes/Freeze.png" width="32"/> | Heat |
-| &#9679; Reflect | <img src="/img/blend-modes/Reflect.png" width="32"/> | Glow |
-| &#9675; Heat | <img src="/img/blend-modes/Heat.png" width="32"/> | Freeze |
-| &#9679; Glow | <img src="/img/blend-modes/Glow.png" width="32"/> | Reflect |
-| &#9681; Overlay | <img src="/img/blend-modes/Overlay.png" width="32"/> | Hard Light | $$ 0.5 $$ |
-| &#9681; Hard Light | <img src="/img/blend-modes/HardLight.png" width="32"/> | Overlay | $$ 0.5 $$ |
+| &#9675; Freeze | <img src="/img/blend-modes/Freeze.png" width="32"/> | $$ f_{Heat}(a,b) $$ |
+| &#9679; Reflect | <img src="/img/blend-modes/Reflect.png" width="32"/> | $$ f_{Glow}(a,b) $$ |
+| &#9675; Heat | <img src="/img/blend-modes/Heat.png" width="32"/> | $$ f_{Freeze}(a,b) $$ |
+| &#9679; Glow | <img src="/img/blend-modes/Glow.png" width="32"/> | $$ f_{Reflect}(a,b) $$ |
+| &#9681; Overlay | <img src="/img/blend-modes/Overlay.png" width="32"/> | $$ f_{Hard Light}(a,b) $$ | $$ 0.5 $$ |
+| &#9681; Hard Light | <img src="/img/blend-modes/HardLight.png" width="32"/> | $$ f_{Overlay}(a,b) $$ | $$ 0.5 $$ |
 | &#9681; Soft Light (Photoshop) | <img src="/img/blend-modes/SoftLightPhotoshop.png" width="32"/> | | $$ 0.5 $$ |
 | &#9681; Soft Light | <img src="/img/blend-modes/SoftLight.png" width="32"/> | | $$ 0.5 $$ |
 | &#9681; Pin Light | <img src="/img/blend-modes/PinLight.png" width="32"/> | | $$ a $$ |

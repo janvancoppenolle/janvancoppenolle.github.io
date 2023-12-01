@@ -7,6 +7,8 @@ mathjax: no
 
 A 3D LUT in 64x64x64 CUBE format simulating the Sinclair ZX Spectrum palette of 15 colours.
 
+<!--more-->
+
 [https://github.com/janvancoppenolle/LUT/tree/main/Retro%20GPU%20Conversion](https://github.com/janvancoppenolle/LUT/tree/main/Retro%20GPU%20Conversion)
 
 

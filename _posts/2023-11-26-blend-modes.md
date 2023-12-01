@@ -5,6 +5,8 @@ categories: lab
 mathjax: yes
 ---
 
+<!--more-->
+
 | | $$ f(a,b)\over $$ | $$ Commutative\over $$ | $$ b? \to f(a,b) = a\over $$ | |
 | :--- | :---: | :---: | :---: | :---: |
 | &#9681; Average | <img src="/img/blend-modes/Average.png" width="32"/> | &#10003; | $$ a $$ | <img src="/img/blend-modes/Average_Graph.png" width="32"/> |

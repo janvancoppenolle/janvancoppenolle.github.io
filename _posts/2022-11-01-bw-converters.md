@@ -7,6 +7,7 @@ mathjax: yes
 
 A collection of 3D LUTs for colour-to-greyscale conversion in 64x64x64 HALD and x65 CUBE format.
 
+<!--more-->
 
 [https://github.com/janvancoppenolle/LUT/tree/main/BW%20Conversion](https://github.com/janvancoppenolle/LUT/tree/main/BW%20Conversion)
 

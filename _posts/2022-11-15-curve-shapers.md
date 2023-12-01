@@ -7,6 +7,7 @@ mathjax: yes
 
 A collection of 1D LUTs in CUBE and Photoshop Arbitrary Map (.amp Curves Preset) format for image shaping.
 
+<!--more-->
 
 [https://github.com/janvancoppenolle/LUT/tree/main/Shapers](https://github.com/janvancoppenolle/LUT/tree/main/Shapers)
 

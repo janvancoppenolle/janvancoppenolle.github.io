@@ -7,6 +7,7 @@ mathjax: no
 
 Lo-fi retro-GPU styles.
 
+<!--more-->
 
 [https://github.com/janvancoppenolle/LUT/tree/main/Retro%20GPU%20Conversion](https://github.com/janvancoppenolle/LUT/tree/main/Retro%20GPU%20Conversion)
 

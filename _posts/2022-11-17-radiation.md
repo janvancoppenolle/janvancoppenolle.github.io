@@ -5,6 +5,8 @@ categories: lab
 mathjax: no
 ---
 
+<!--more-->
+
 [https://github.com/janvancoppenolle/LUT/tree/main/Graders](https://github.com/janvancoppenolle/LUT/tree/main/Graders)
 
 ## Input

@@ -7,6 +7,8 @@ mathjax: no
 
 Saturation flatteners.
 
+<!--more-->
+
 [https://github.com/janvancoppenolle/LUT/tree/main/Graders](https://github.com/janvancoppenolle/LUT/tree/main/Graders)
 
 | <img src="/img/Neutral-512.png" width="200"/> |  <img src="/img/TestWheel.png" width="200"/>  |  <img src="/img/RYGCBMWChart.png" width="200"/> |

@@ -5,6 +5,8 @@ categories: lab
 mathjax: yes
 ---
 
+<!--more-->
+
 | ![](/img/blend-modes/a.png) | ![](/img/blend-modes/b.png) |
 | :---: | :---: |
 | $$ a $$ | $$ b $$ |

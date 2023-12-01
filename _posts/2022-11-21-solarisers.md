@@ -7,6 +7,8 @@ mathjax: yes
 
 Greyscale half-inversion.
 
+<!--more-->
+
 [https://github.com/janvancoppenolle/LUT/tree/main/Solarizers](https://github.com/janvancoppenolle/LUT/tree/main/Solarizers)
 
 | <img src="/img/Neutral-512.png" width="200"/> |  <img src="/img/TestWheel.png" width="200"/>  |  <img src="/img/Curve.png" width="200"/> |

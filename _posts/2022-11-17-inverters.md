@@ -7,6 +7,7 @@ mathjax: yes
 
 Inversions of image colour components.
 
+<!--more-->
 
 [https://github.com/janvancoppenolle/LUT/tree/main/Inverters](https://github.com/janvancoppenolle/LUT/tree/main/Inverters)
 

@@ -23,7 +23,7 @@
             {%- if my_page.title -%}
             <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
             {%- else -%}
-            <a class="page-link" href="{{ path.url }}">{{ path.title | escape }}</a>
+            <a class="page-link" href="{{ path.url }}" target="_blank">{{ path.title | escape }}</a>
             {%- endif -%}
           {%- endfor -%}
         </div>

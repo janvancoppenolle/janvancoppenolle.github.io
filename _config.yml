@@ -9,6 +9,11 @@ description: >
   Visual things.
 
 # Build settings
+collections:
+  photos:
+    output: true
+  articles:
+    output: true
 
 # If you clone the Minima repo and build locally, use this setting.
 theme: minima
@@ -29,7 +34,10 @@ plugins:
 header_pages:
   - title: JJ45
     url: http://jj45.be
-  - lab.md
+    target: _blank
+  - lab-notes.md
+#  - photos.md
+#  - articles.md
 
 # Set to `true` to show excerpts on the homepage.
 show_excerpts: true
@@ -44,7 +52,7 @@ minima:
   # solarized-light	   Light variant of solarized color scheme.
   # solarized-dark	   Dark variant of solarized color scheme.
   # solarized	         Adaptive skin for solarized color scheme skins.
-  skin: dark
+  skin: classic
   
   # Minima date format.
   # The default value is "%b %d, %Y" (e.g. Nov 14, 2023) 
